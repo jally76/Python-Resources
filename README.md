@@ -7,4 +7,7 @@ Visual-Tkinter-for-Python https://github.com/cdhigh/Visual-Tkinter-for-Python
 gevent https://github.com/gevent/gevent
 python协程库，支持高并发的机制
 
+Kivy https://github.com/kivy/kivy http://kivy.org
+Kivy - Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps. 
+
 
